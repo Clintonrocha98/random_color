@@ -15,7 +15,7 @@ Pagina criada no intuito de melhorar meu conhecimento com Javascript.
 - [ ] Mostrar o hexadecimal da cor gerada na pagina.
 
 
-[Link da pagina](https://clintonrocha98.github.io/Color-pag/)
+[Link da pagina](https://clintonrocha98.github.io/random_color/)
 
 <img align="center">
   <img src=".github/pagina.png" width="100%" />
