@@ -8,7 +8,7 @@ Pagina criada no intuito de melhorar meu conhecimento com Javascript.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 📝 Conceitos importantes tratados nesse projeto:
+## 📝 Conceitos usados nesse projeto:
 
 - document.querySelectorAll()
 - forEach()
