@@ -8,11 +8,14 @@ Pagina criada no intuito de melhorar meu conhecimento com Javascript.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 📝 Critério
+## 📝 Conceitos importantes tratados nesse projeto:
 
-- [ ] Utilizar <b>function()</b> para gerar as cores aleatórias.
-- [ ] Mostrar a cor gerada no background da pagina.
-- [ ] Mostrar o hexadecimal da cor gerada na pagina.
+- document.querySelectorAll()
+- forEach()
+- addEventListener()
+- currentTarget property
+- classList
+- innerHTML
 
 
 [Link da pagina](https://clintonrocha98.github.io/random_color/)
