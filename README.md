@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Pagina criada no intuito de melhorar meu conhecimento com Javascript.
+Um trocador de cores para um fundo de tela aleatório.
 
 ## 🚀 Tecnologias
 
